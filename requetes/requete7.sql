@@ -1,0 +1,1 @@
+DELETE FROM recipe r WHERE r.id_recipe = 10;
